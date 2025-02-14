@@ -1,2 +1,2 @@
 # Python_escola
-Tudo que eu aprendo de python na escola
+Tudo que eu aprendi de python na escola
